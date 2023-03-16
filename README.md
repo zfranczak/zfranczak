@@ -21,8 +21,6 @@
 <a href="https://www.youtube.com/zacharyfranczak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zacharyfranczak" height="30" width="40" /></a>
 </p>
 
-
-
     <h3 align="left">Languages and Tools:</h3>
     <ul>
       <li
@@ -113,6 +111,7 @@
           height="40"
         />
       </li>
+
       <li href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -142,6 +141,7 @@
         />
       </li>
     </ul>
+  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zakzak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zakzak" /></a></p><br><br>
