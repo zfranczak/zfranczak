@@ -22,12 +22,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<style>
-    ul {
-      display: flex;
-      list-style-type: none;
-    }
-  </style>
   <body>
     <h3 align="left">Languages and Tools:</h3>
     <ul>
