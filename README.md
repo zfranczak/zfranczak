@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zak Franczak</h1>
 <h3 align="center">A former Musical Theatre actor who is full of coding passion and typically coffee too.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zfranczak" alt="zfranczak" /></a> </p>
+
 
 - 🔭 I’m currently working on [an AI inspiration generator](https://github.com/chat-gpt-hack/Inspire-GPT)
 
