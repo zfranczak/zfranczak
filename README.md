@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Vite, and Sass**
 
-- 👨‍💻 All of my projects are available at [https://zfranczak.github.io/portfolio/](https://zfranczak.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [zacharyfranczak.com](https://zacharyfranczak.com/)
 
 - 📫 How to reach me **zakfranczak@gmail.com**
 
