@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zak Franczak</h1>
 <h3 align="center">A former Musical Theatre actor who is full of coding passion and typically coffee too.</h3>
 
-- 🔭 I’m currently working on [A Weather & Air Quality app that alerts users to close their windows to save energy](https://github.com/zfranczak/shouldICloseMyWindows)
-- [Demo Page](https://shiny-narwhal-424c5d.netlify.app/)
+- 🔭 I’m currently working on [A Movie List Tracker for a Hackathon]([https://github.com/zfranczak/shouldICloseMyWindows](https://github.com/zfranczak/watchWise))
+- [Demo Page](https://chic-semolina-076749.netlify.app/)
 
 - 🌱 I’m currently learning **React, Vite, and Sass**
 
