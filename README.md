@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [A Movie List Tracker for a Hackathon](https://github.com/zfranczak/watchWise)
 - [Demo Page](https://chic-semolina-076749.netlify.app/)
 
-- 🌱 I’m currently learning **React, Vite, and Sass**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [zacharyfranczak.com](https://zacharyfranczak.com/)
 
